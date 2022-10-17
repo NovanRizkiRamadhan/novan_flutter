@@ -1,9 +1,11 @@
 import 'package:novprojects/row_coloumn.dart';
 import './container.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
+import 'package:novprojects/latihan.dart';
 
 void main() {
-  runApp(RowColumn());
+  runApp(LatihanWidget());
 }
 
 // class MyApp extends StatelessWidget {
